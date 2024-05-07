@@ -1,6 +1,5 @@
 # SYNCHRONOUS-UP-COUNTER
-## DEVELOPED BY: guntur shaik mohammad shahil
-## REGISTER NUMBER: 212223240044
+ 
 
 ## AIM:
 
@@ -44,7 +43,8 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 ## PROGRAM:
  Program for flipflops and verify its truth table in quartus using Verilog programming. 
-
+ DEVELOPED BY: Rohiit.A.S
+ REGISTER NUMBER: 212223100047
 ```
 module exp11(out,clk,rstn);
 input clk,rstn;
